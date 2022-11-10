@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest_for_6_2rec.cpp
+C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_2_rec\Laboratorna 6_2_rec\Lab 6_2.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_2_rec\Laboratorna 6_2_rec\Lab 6_2.cpp(77): warning C4715: 'calculate': not all control paths return a value
+     Creating library C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_2_rec\x64\Debug\UnitTest_for_6_2rec.lib and object C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_2_rec\x64\Debug\UnitTest_for_6_2rec.exp
+  UnitTest_for_6_2rec.vcxproj -> C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_2_rec\x64\Debug\UnitTest_for_6_2rec.dll
